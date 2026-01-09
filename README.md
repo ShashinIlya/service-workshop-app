@@ -23,3 +23,6 @@ Service Workshop App
     Tkinter / ttkbootstrap
     SQLite 3
     Прямые SQL-запросы для управления данными
+    
+  Инструкция использования
+  ![Инструкция использования](https://github.com/user-attachments/assets/3450b832-8e81-42e3-84d5-046338817086)
