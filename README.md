@@ -18,9 +18,8 @@ Service Workshop App
    Clients ↔ Orders: один клиент может иметь историю из нескольких заказов.
    Masters ↔ Orders: за каждым мастером может быть закреплено несколько активных работ.
 
-
-# Технологии
- Python 3.14
- Tkinter / ttkbootstrap
- SQLite 3
- Прямые SQL-запросы для управления данными
+ Технологии
+    Python 3.14
+    Tkinter / ttkbootstrap
+    SQLite 3
+    Прямые SQL-запросы для управления данными
