@@ -24,9 +24,9 @@ Service Workshop App
     SQLite 3
     Прямые SQL-запросы для управления данными
     
-  Инструкция использования
+Инструкция использования
   
-  <img align="center" width="400" height="400" alt="4cd0a448-930d-4b24-bd9a-c779914f7845" src="https://github.com/user-attachments/assets/8616c5ef-9f37-4d97-b9ac-42de645a2182" />
+   <img align="center" width="400" height="400" alt="4cd0a448-930d-4b24-bd9a-c779914f7845" src="https://github.com/user-attachments/assets/8616c5ef-9f37-4d97-b9ac-42de645a2182" />
 
 
   
