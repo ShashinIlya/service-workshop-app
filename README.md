@@ -19,10 +19,10 @@ Service Workshop App
    Masters ↔ Orders: за каждым мастером может быть закреплено несколько активных работ.
 
  Технологии
-    Python 3.14
+    Python 3.x.
     Tkinter / ttkbootstrap
     SQLite 3
-    Прямые SQL-запросы для управления данными
+    SQL-запросы (JOIN/GROUP BY)
     
 Инструкция использования:
   
