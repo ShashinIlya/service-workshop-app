@@ -20,9 +20,9 @@ Service Workshop App
 
  Технологии
     Python 3.x.
-    Tkinter / ttkbootstrap
+    Tkinter
     SQLite 3
-    SQL-запросы (JOIN/GROUP BY)
+    SQL-запросы
     
 Инструкция использования:
   
